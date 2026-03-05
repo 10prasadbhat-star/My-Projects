@@ -1,0 +1,51 @@
+body {
+    background-color: lightgrey !important;
+    margin-top: 20px !important;
+}
+
+.inputForm {
+    width: 70% !important;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:lightblue;
+}
+
+span{
+    color: red;
+}
+
+.buttons{
+    display: flex; 
+    justify-content: center;
+
+}
+
+.filter-card{
+    border: 2px solid black; 
+    border-radius: 10px; 
+    background-color:peachpuff;
+
+}
+
+h3{
+    text-align: center;
+
+}
+.msgElement {
+    color: red;
+    font-size: small;
+
+}
+
+.pendingColor {
+    color: orange;
+}
+
+.approveColor {
+
+    color: green !important;
+}
+
+.rejectColor {
+    color: red !important;
+}
